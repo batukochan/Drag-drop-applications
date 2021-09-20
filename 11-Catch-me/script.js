@@ -11,6 +11,9 @@ $(function () {
         $(".car img").css({
             left: randomX + "px",
             top: randomH + "px"
+
         });
+
     });
+    
 });
